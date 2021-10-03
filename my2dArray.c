@@ -4,6 +4,7 @@
 #include <time.h>
 
 int globalCount = 0;
+int dummy = 2;
 
 void pointers4(){
 	int num = 300;
